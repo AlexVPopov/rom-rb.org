@@ -12,7 +12,7 @@ $TOC
   6. [Where ROM Shines](#where-rom-shines)
 $TOC
 
-Rails ActiveRecord is the most popular persistence framework in ruby land. Deployed inside the majority of rails applications across the web, it provides APIs for quick and simple data access making it a great solution for constructing CRUD style applications.
+Rails ActiveRecord is the most popular persistence framework in Ruby land. Deployed inside the majority of Rails applications across the web, it provides APIs for quick and simple data access making it a great solution for constructing CRUD style applications.
 
 Our intention for this guide is to act as a primer for anyone familiar with Rails' ActiveRecord and looking for a quick start guide. Examples in each set will show how ActiveRecord accomplishes each task followed by an example with the equivalent using ROM.
 
